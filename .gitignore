@@ -21,7 +21,6 @@ flutter_export_environment.sh
 google-services.json
 GoogleService-Info.plist
 firebase.json
-lib/firebase_options.dart
 .firebaserc
 
 # Android specific
