@@ -1,0 +1,52 @@
+# Flutter/Dart specific
+*.dart_tool/
+*.idea/
+*.iml
+*.ipr
+*.iws
+*.lock
+*.log
+*.packages
+*.flutter-plugins
+*.flutter-plugins-dependencies
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+flutter_*.png
+flutter_export_environment.sh
+
+# Firebase specific
+google-services.json
+GoogleService-Info.plist
+firebase.json
+.firebaserc
+
+# Android specific
+*.apk
+*.aab
+*.keystore
+*.jks
+android/key.properties
+android/local.properties
+android/app/build/
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+
+# iOS specific
+ios/Pods/
+ios/Podfile.lock
+ios/Runner.xcworkspace/
+ios/Runner/GoogleService-Info.plist
+ios/.symlinks/
+ios/Flutter/flutter_export_environment.sh
+
+# Miscellaneous
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*.env
